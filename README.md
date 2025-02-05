@@ -24,6 +24,7 @@ just a technical demonstration: we want you to think about it as a real game.
 Here is the full list of authorized functions.
 
 from the C library:
+
 ✓ malloc, free, memset, rand, srand, time (only with srand), (f)open, (f)read, (f)write, (f)close, getline
 
 from the CSFML library:
